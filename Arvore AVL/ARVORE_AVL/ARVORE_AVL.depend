@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1623212054 source:/Users/genesjr/Documents/ARVORE_AVL/arvore.cpp
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<iostream>
+	"arvore.h"
+
+1623212282 /Users/genesjr/Documents/ARVORE_AVL/arvore.h
+
